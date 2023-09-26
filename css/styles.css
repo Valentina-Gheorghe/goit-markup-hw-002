@@ -1,0 +1,20 @@
+:root {
+    --paragraph-color: #212121;
+    --link-color: #212121; 
+    --heading-font-family: "Roboto", "sans-serif";
+    --background: #FFF;
+}
+
+
+        /* Links & Unordered lists properties */
+
+ul{
+    list-style: none;
+    padding: 0;
+}
+
+a{
+    text-decoration: none;
+}
+
+        /* About header */
