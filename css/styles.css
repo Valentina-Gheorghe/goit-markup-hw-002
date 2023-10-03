@@ -234,7 +234,8 @@ border: 0;
 }
 
 .project-button:hover,
-.project-button:active {
+.project-button:active,
+.project-button:focus {
     color: #FFF;
     background-color: var(--button-hover-color);
     cursor: pointer;
